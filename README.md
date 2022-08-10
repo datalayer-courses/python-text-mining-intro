@@ -5,7 +5,6 @@
    2. Use cases
    3. Python packages
 2. Introduction to regular expressions
-+ Exercises
 3. Introduction to spaCy
    1. nlp object
    2. Documents, spans and tokens
@@ -17,7 +16,6 @@
    7. Part of speech tagging
    8. Syntactic dependencies
    9. Named entities recognition
-+ Exercises
 4. Features engineering
    1. Bag of words
    2. Tf-idf
