@@ -28,7 +28,8 @@
 5. Sentiment analysis modeling
 6. Training deep learning model using prodigy and spacy: demo
 
-## Sources:
+## Sources
+
 - https://www.w3schools.com/python/python_regex.asp
 - https://ieeexplore.ieee.org/document/8952499
 - https://github.com/odenipinedo/Python/blob/master/datacamp/introduction%20to%20natural%20language%20processing%20in%20Python.ipynb
