@@ -5,10 +5,12 @@
 1. Introduction
    1. Some definitions
    2. Use cases
-   3. Python packages
+   3. Challenges of NLP
+   4. Python packages
 2. Introduction to regular expressions
    1. Theory
    2. Examples
+   3. Exercises
 3. Introduction to spaCy
    1. nlp object
    2. Documents, spans and tokens
@@ -21,6 +23,7 @@
    9. Syntactic dependencies
    10. Named entities recognition
    11. Stop words 
+   12. Exercises
 4. Text vectorization
    1. Bag of words
    2. Tf-idf
@@ -42,3 +45,9 @@
 - https://www.shanelynn.ie/word-embeddings-in-python-with-spacy-and-gensim/
 - https://ashutoshtripathi.com/2020/09/04/word2vec-and-semantic-similarity-using-spacy-nlp-spacy-series-part-7/
 - https://israelg99.github.io/2017-03-23-Word2Vec-Explained/
+- https://scionanalytics.com/text-mining-vs-natural-language-processing/#:~:text=NLP%20and%20text%20mining%20differ,than%20the%20meaning%20of%20content.
+- https://www.folio3.ai/blog/why-natural-language-processing-is-important/#:~:text=By%20enabling%20machines%20to%20understand,%2C%20spell%20checks%2C%20and%20summarization.
+- https://nexocode.com/blog/posts/definitive-guide-to-nlp/
+- https://monkeylearn.com/blog/introduction-to-topic-modeling/#:~:text=Topic%20modeling%20is%20an%20unsupervised,characterize%20a%20set%20of%20documents.
+- https://www.turing.com/kb/which-language-is-useful-for-nlp-and-why
+- https://www.activestate.com/blog/natural-language-processing-nltk-vs-spacy/
