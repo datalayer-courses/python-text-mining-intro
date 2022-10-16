@@ -10,7 +10,8 @@
 2. Introduction to regular expressions
    1. Theory
    2. Examples
-   3. Exercises
+   3. Useful tools
+   4. Exercises
 3. Introduction to spaCy
    1. nlp object
    2. Documents, spans and tokens
@@ -29,6 +30,8 @@
    2. Tf-idf
    3. Word embeddings
 5. Sentiment analysis modeling
+   1. A first submission
+   2. Your turn!
 6. Training deep learning model using prodigy and spacy: demo
 
 ## Sources

@@ -1,4 +1,5 @@
 .*
+truth/
 
 # Include.
 !**/.*ignore
