@@ -54,3 +54,5 @@
 - https://monkeylearn.com/blog/introduction-to-topic-modeling/#:~:text=Topic%20modeling%20is%20an%20unsupervised,characterize%20a%20set%20of%20documents.
 - https://www.turing.com/kb/which-language-is-useful-for-nlp-and-why
 - https://www.activestate.com/blog/natural-language-processing-nltk-vs-spacy/
+- https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews
+- https://openclassrooms.com/en/courses/6532301-introduction-to-natural-language-processing/7047916-apply-classifier-models-for-sentiment-analysis
