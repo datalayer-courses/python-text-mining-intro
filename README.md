@@ -4,8 +4,8 @@
 
 1. Introduction
    1. Some definitions
-   2. Use cases
-   3. Challenges of NLP
+   2. NLP use cases
+   3. NLP challenges
    4. Python packages
 2. Introduction to regular expressions
    1. Theory
@@ -30,9 +30,8 @@
    2. Tf-idf
    3. Word embeddings
 5. Sentiment analysis modeling
-   1. A first submission
+   1. Sample submission
    2. Your turn!
-6. Training deep learning model using prodigy and spacy: demo
 
 ## Sources
 
