@@ -4,13 +4,9 @@ channels:
 dependencies:
   - ca-certificates=2022.10.11
   - certifi=2022.9.24
-  - libcxx=14.0.6
-  - libffi=3.3
-  - ncurses=6.3
   - openssl=1.1.1s
   - pip=22.2.2
   - python=3.9.13
-  - readline=8.2
   - setuptools=65.5.0
   - sqlite=3.39.3
   - tk=8.6.12
@@ -39,9 +35,6 @@ dependencies:
     - debugpy==1.6.3
     - decorator==5.1.1
     - defusedxml==0.7.1
-    - en-core-web-lg==3.4.1
-    - en-core-web-md==3.4.1
-    - en-core-web-sm==3.4.1
     - entrypoints==0.4
     - executing==1.2.0
     - fastjsonschema==2.16.2
